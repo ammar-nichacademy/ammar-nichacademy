@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [Niche Academy](https://www.nicheacademy.com/)
 
 <h3 align="left">Connect with me:</h3>
-- **Email**: ammar.nicheacademy@nxvt.com
-- **Skype**: ammar.nicheacademy@nxvt.com
+- <h4>Email</h4>: <a href = "mailto: ammar.nicheacademy@nxvt.com">ammar.nicheacademy@nxvt.com</a>
+- <h4>Skype</>: <a href = "skype: ammar.nicheacademy@nxvt.com">ammar.nicheacademy@nxvt.com</a>
 <p align="left">
 </p>
 
